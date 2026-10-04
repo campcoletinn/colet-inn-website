@@ -11,3 +11,7 @@ Published with the business owner's authorization. These are unmodified copies o
 Original gallery: https://web.archive.org/web/20091025051853fw_/http://geocities.com/rlowery98/pics1.html
 
 The gallery displays images without cropping and links to these full-size copies. Tiny thumbnails and people-focused photographs were excluded from this building-photo selection.
+
+## Owner-supplied roadside sign
+
+`colet-inn-roadside-sign.jpg` is an unchanged copy of the owner's supplied sign photograph: 92 × 92 pixels, 2,295 bytes. It is displayed separately at its native size, without enlargement. The owner confirms that the sign survived the 2005 fire and remained through the rebuilding. The photography date is unknown; this history does not date the photograph. The original is preserved.
