@@ -19,3 +19,5 @@ The gallery displays images without cropping and links to these full-size copies
 ## Owner-supplied 2004 exterior photograph
 
 `colet-inn-exterior-2004-ai-restored.png` (1516 × 1038) is an AI-restored copy of the owner's scan, dated January 22, 2004 by its visible camera stamp. The original scan is preserved separately and was not uploaded. Fine details in the restoration may have been reconstructed.
+
+`colet-inn-grounds-2004-ai-restored.png` (1554 × 1012) is an AI-restored copy of a second owner-supplied scan, showing the playground and raised deck. Its visible camera stamp reads January 22, 2004. The original scan is preserved separately and was not uploaded.
