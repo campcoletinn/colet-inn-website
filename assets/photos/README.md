@@ -15,3 +15,7 @@ The gallery displays images without cropping and links to these full-size copies
 ## Owner-supplied roadside sign
 
 `colet-inn-roadside-sign.jpg` is an unchanged copy of the owner's supplied sign photograph: 92 × 92 pixels, 2,295 bytes. It is displayed separately at its native size, without enlargement. The owner confirms that the sign survived the 2005 fire and remained through the rebuilding. The photography date is unknown; this history does not date the photograph. The original is preserved.
+
+## Owner-supplied 2004 exterior photograph
+
+`colet-inn-exterior-2004-ai-restored.png` (1516 × 1038) is an AI-restored copy of the owner's scan, dated January 22, 2004 by its visible camera stamp. The original scan is preserved separately and was not uploaded. Fine details in the restoration may have been reconstructed.
